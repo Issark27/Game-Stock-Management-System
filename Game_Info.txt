@@ -1,0 +1,29 @@
+GameID,Platform,Genre,Title,Publisher,PurchaseDate
+cod01,PlayStation,Action,COD,Activision,01/08/2020 
+cod02,PlayStation,Action,COD,Activision,01/09/2021 
+cod03,PlayStation,Action,COD,Activision,06/11/2022
+fifa01,Xbox,Sports,FIFA,EA Sports,04/07/2019 
+fifa02,Xbox,Sports,FIFA,EA Sports,01/08/2019 
+fifa03,Xbox,Sports,FIFA,EA Sports,23/09/2020 
+fifa04,Xbox,Sports,FIFA,EA Sports,23/09/2022 
+acr01,Xbox,Adventure,Assassins Creed,Ubisoft,18/03/2020 
+acr02,Xbox,Adventure,Assassins Creed,Ubisoft,02/10/2021 
+acr03,Xbox,Adventure,Assassins Creed,Ubisoft,17/12/2021 
+tlo01,PlayStation,Adventure,The Last Of Us,Naughty Dog,27/07/2020 
+tlo02,PlayStation,Adventure,The Last Of Us,Naughty Dog,16/04/2021 
+tlo03,PlayStation,Adventure,The Last Of Us,Naughty Dog,13/09/2022
+tlo04,PlayStation,Adventure,The Last Of Us,Naughty Dog,28/11/2022
+spid01,PlayStation,Action,Spiderman,Insomniac,12/03/2019 
+spid02,PlayStation,Action,Spiderman,Insomniac,25/08/2019
+spid03,PlayStation,Action,Spiderman,Insomniac,03/10/2020
+res01,Xbox,Horror,Resident Evil,Capcom,10/04/2019
+res02,Xbox,Horror,Resident Evil,Capcom,15/09/2020
+res03,Xbox,Horror,Resident Evil,Capcom,10/04/2019
+gow01,PlayStation,Adventure,God Of War,Sony,29/08/2020
+gow02,PlayStation,Adventure,God Of War,Sony,04/12/2021
+gow03,PlayStation,Adventure,God Of War,Sony,22/09/2021
+halo01,Xbox,Action,Halo,Microsoft,25/01/2020
+halo02,Xbox,Action,Halo,Microsoft,13/05/2020
+zel01,Nintendo,Adventure,Zelda,Nintendo,22/04/2022
+zel02,Nintendo,Adventure,Zelda,Nintendo,26/11/2022
+zel03,Nintendo,Adventure,Zelda,Nintendo,25/04/2023

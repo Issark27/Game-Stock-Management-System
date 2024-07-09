@@ -1,0 +1,101 @@
+GameID,Rating,Comments
+cod01,5,Excellent game!
+fifa02,4,Good but could be better.
+acr03,3,Average experience.
+tlo04,3,Decent.
+cod01,5,Highly enjoyable!
+tlo01,4,Very Good!
+tlo03,5,Found it very entertaining!
+cod02,3,It was decent
+cod01,4,Very Entertaining
+acr02,3,Better than expected
+acr01,2,Didn't enjoy the gameplay or graphics.
+fifa01,5,One of the best sports games I've played!
+zel01,3,Fun but could use some improvements.
+gow01,5,Amazing action and storyline!
+tlo02,4,Challenging levels and great graphics.
+zel02,3,Good, but not as captivating as the first one.
+res01,3,Engaging storyline and impressive graphics.
+spid01,5,Web-swinging feels incredibly satisfying!
+spid02,4,Improved combat mechanics are a plus.
+gow03,5,Continues to deliver an epic gaming experience.
+res02,2,Not that great.
+cod02,3,Decent, but the series has seen better.
+gow02,4,Great character development and combat.
+cod03,2,Disappointing compared to previous titles.
+fifa03,5,Love the new features and realistic gameplay.
+spid03,4,Exciting missions and impressive visuals.
+res03,3,Storyline lacks the depth of earlier titles.
+halo02,2,Bad entry in the Halo series.
+zel03,3,Not as innovative as previous installments.
+cod01,5,Great installment!
+fifa02,3,Improved mechanics and player animations.
+acr03,2,Not as memorable as the first two.
+tlo04,4,Enjoyable, with some challenging puzzles.
+cod01,3,Didn't live up to the hype.
+tlo01,4,Great atmosphere and level design.
+tlo03,5,Amazing!
+cod02,2,Needs improvement in various aspects.
+cod01,4,Very enjoyable gameplay.
+acr02,3,Solid gameplay but lacks innovation.
+acr01,4,Still a great gaming experience after all these years.
+fifa01,5,Continues to set the standard for sports games.
+zel01,3,Fun, but could use more variety.
+gow01,5,Impressive graphics and intense battles.
+tlo02,4,Well-designed levels and engaging story.
+zel02,3,Average compared to other titles in the series.
+res01,2,Overrated!
+spid01,5,Web-swinging mechanics are a highlight.
+spid02,4,Improved combat system and engaging missions.
+gow03,5,Keeps the excitement level high throughout.
+tlo02,4,Challenging puzzles and impressive visuals.
+gow02,4,Great continuation of the series.
+cod03,2,Disappointing storyline and lackluster gameplay.
+fifa03,2,No new features.
+spid03,4,Web-swinging feels as good as ever.
+fifa03,3,Not as innovative as I expected.
+fifa01,2,Poor sports gaming experience.
+zel03,3,Decent but lacks the wow factor.
+zel01,2,Disappointing compared to the earlier ones.
+halo01,2,Extremely disappointing.
+fifa01,5,Continues to impress with realistic gameplay.
+spid02,3,Decent improvements, but could be better.
+fifa04,4,Exciting new features and improved graphics.
+tlo01,4,Enjoyable with well-designed levels.
+cod02,3,Solid but not groundbreaking.
+acr02,2,Bad continuation of the series.
+spid02,3,Some improvements, but not a game-changer.
+zel02,2,Needs more innovation and excitement.
+zel01,3,Thought it was decent.
+fifa02,3,Entertaining!
+acr03,3,Intriguing storyline, room for improvement
+tlo04,4,Engaging gameplay, impressive graphics
+cod01,5,Seamless gameplay, immersive features
+tlo01,3,Solid gaming experience
+tlo03,4,Exciting challenges, visually appealing
+cod02,5,Addictive gameplay, top-notch graphics
+cod01,5,Consistently excellent, a gaming masterpiece
+acr02,3,Unique concept, some room for enhancement
+acr01,3,Creative gameplay, room for improvement
+fifa01,2,Average gaming experience
+zel01,3,Interesting concept, needs refinement
+gow01,3,Solid gameplay, room for improvement
+tlo02,4,Addictive gameplay, captivating storyline
+zel02,3,Engaging, but lacking in some aspects
+res01,3,Decent gameplay, room for improvement
+spid01,4,Thrilling challenges, visually stunning
+spid02,3,Interesting plot, some aspects to enhance
+gow03,3,Good gameplay, room for improvement
+tlo01,3,Solid gaming experience
+gow02,4,Captivating storyline, enjoyable gameplay
+cod03,3,Good, but could be better"
+fifa03,2,Below expectations"
+res03,3,Decent gameplay, room for improvement
+zel03,3,Promising, needs refinement
+zel01,3,Interesting concept, needs refinement
+tlo02,4,Addictive gameplay, captivating storyline
+cod01,4,Well-designed, engaging gameplay
+spid03,2,Disappointing, lacking in excitement
+acr03,2,Terrible!
+zel02,5,Amazing!
+acr03,2,Dissapointing!
